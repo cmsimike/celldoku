@@ -1,0 +1,7 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: LMU Computer Science
+MIDlet-Jar-URL: Celldoku.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: Celldoku,,edu.lmu.cs.cmsi402.celldoku.Celldoku
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Name: Celldoku

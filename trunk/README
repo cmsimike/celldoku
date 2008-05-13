@@ -1,0 +1,14 @@
+This is a Sudoku game for any J2ME-compatible device. 
+Essentially you need J2ME Wireless Toolkit (WTK) 2.2 from Sun, Eclipse, and 
+EclipseME (Eclipse J2ME plugin).
+
+Also this is my actual senior project from a year and a half ago. As such, it
+is written to only work correctly on a certain cell phone with certain
+dimensions. In the coming months I will hopefully remedy this situation. I love
+Sudoku, so having it on any J2ME-compatible device to enjoy at any time will be
+great. 
+
+Thank you for checking out Celldoku.
+-Mike Megally (mike@xekm.com)
+
+P.S. Additionally, this is my first open source project. Please, be gentle :)
